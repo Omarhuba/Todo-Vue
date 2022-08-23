@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Gå till skolan",
+      "day": "09:00",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Studera",
+      "day": "10:00",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "hello tasks",
+      "day": "hej hej",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
